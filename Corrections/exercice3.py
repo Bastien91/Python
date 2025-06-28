@@ -6,7 +6,6 @@ Bob possède un certain nombre de billes. Il veut regrouper ses billes dans des 
     - affiche le nombre de sacs qui seront pleins,
     - affiche le nombre de billes restantes.
 """
-
 nombre_de_billes = int(input("Saisir le nombre de billes de Bob : "))
 capcitee_du_sac = 17
 
