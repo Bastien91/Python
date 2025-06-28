@@ -1,6 +1,7 @@
 # Exercice 2 : Epicerie
 """
-Une épicerie vend de la farine à 2 euros le kilo, et des tablettes de chocolat à 2,5 euros. Écrire en Python un algorithme qui :
+Une épicerie vend de la farine à 2 euros le kilo, et des tablettes de chocolat à 2,5 euros.
+Écrire un algorithme qui :
     - demande de saisir un nombre de kilos de farine,
     - demande de saisir un nombre de tablettes de chocolat,
     - affiche le prix à payer au total pour la farine et le chocolat.
