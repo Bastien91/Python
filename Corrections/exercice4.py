@@ -6,7 +6,6 @@
     Compléter l'algorithme précédent en affichant combien de chapeaux pourront être achetés au maximum avec la somme saisie à la question précédente
     et combien il restera alors de dollars.
 """
-
 euros = int(input("Saisir une somme d'argent en euros : "))
 dollars = euros * 1.17
 print("Conversion euros en dollars : "+str(dollars))
