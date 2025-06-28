@@ -1,4 +1,4 @@
-# Exercice 5 : Distributeur
+# Exercice 5 : Distributeur de 2 et 1 centimes
 """
 Écrire un programme qui demande de saisir une somme en centimes, puis
 qui donne le nombre de pièces minimum de 2 centimes et 1 centime nécessaires pour payer cette somme.
